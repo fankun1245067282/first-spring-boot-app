@@ -1,8 +1,8 @@
 package com.fankun.controller;
 
 
-import com.fankun.domain.User;
 import com.fankun.repository.UserRepository;
+import com.fankun.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
